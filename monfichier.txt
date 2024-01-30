@@ -1,1 +1,2 @@
 Voici le contenu de mon fichier
+Modification sur la branche master pour creer un conflit
