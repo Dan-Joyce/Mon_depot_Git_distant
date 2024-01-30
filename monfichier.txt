@@ -1,3 +1,7 @@
 Voici le contenu de mon fichier
 Modification sur la branche master pour creer un conflit
+<<<<<<< HEAD
 Modification sur la branche ma-nouvelle-branche
+=======
+Modification sur la branche master
+>>>>>>> master
